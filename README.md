@@ -1,4 +1,4 @@
-# KantaiCollectionGuide
+# Javascript Homework
 Javascript Homework
 
 ## Objective
