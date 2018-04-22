@@ -25,7 +25,7 @@
         a: "Shigure",
         b: "Yamashiro",
         c: "Michishio",
-        d: "Shigure"
+        d: "Fusou"
       },
       correctAnswer: "a"
     },
